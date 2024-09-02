@@ -2,7 +2,7 @@
 
 # KPOP_Twitter_Project
 
-### 20-2 YBIGTA Conference_ KpopTwitter Stream
+### KpopTwitter Stream
 Twitter에서 받아온 KPOP 관련 **실시간 / 대용량 데이터** 를 수집 / 처리 / 분석 / 시각화해보는 프로젝트입니다. 
 
 <br>
