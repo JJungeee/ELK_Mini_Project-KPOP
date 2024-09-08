@@ -1,6 +1,4 @@
-# ELK_Mini_Project-KPOP
-
-# KPOP_Twitter_Project
+# ELK_Mini_Project-KPOP : KPOP_Twitter_Project
 
 ### KpopTwitter Stream
 Twitter에서 받아온 KPOP 관련 **실시간 / 대용량 데이터** 를 수집 / 처리 / 분석 / 시각화해보는 프로젝트입니다. 
